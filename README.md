@@ -1,4 +1,4 @@
-# [Таблица](https://natali-vorobeva.github.io/table-chart-T/)
+# [Таблица](https://natali-vorobeva.github.io/table-chartT/)
 ---
 
 ## О странице:
